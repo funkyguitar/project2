@@ -1,1 +1,1 @@
-Jupyter notebook that extracts data from crowdfunding and contact files, performs data cleaning and manipulation, and exports the resulting DataFrames as CSV files for further analysis.
+Jupyter Notebook that uses Python and Pandas to extract data from crowdfunding and contact files. Performs data cleaning and exports the resulting DataFrames as CSV files into a Postgres database. ERD and table schema created using CSV file data.
